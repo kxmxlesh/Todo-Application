@@ -58,6 +58,6 @@ The Todos Application is a fully functional, interactive to-do list application 
 
 This project is an excellent practice for understanding and implementing DOM manipulation, event handling, and local storage in web development.
 
-# Refer To Below Image :
+### Refer To Below Image :
 
 https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/todo-application-part-5-v1.gif
